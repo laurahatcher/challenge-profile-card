@@ -1,5 +1,6 @@
 .attribution {
   font-size: 11px;
+  font-color: white;
   text-align: center;
 }
 
@@ -29,10 +30,10 @@ p {
   margin: 0 auto 20px;
 }
 a {
-  color: hsl(227, 10%, 46%);
+  color: white;
 }
 a:hover {
-  color: white;
+  color: hsl(227, 10%, 46%);
 }
 
 .bg-pattern-top {
